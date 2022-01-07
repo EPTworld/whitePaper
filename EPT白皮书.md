@@ -1275,16 +1275,7 @@ EPT协议允许用户以一种Token作为抵押，毫不费力地从协议中借
 当需求低时，利率应该低，反之亦然。每个市场a的利用率U将供需统一为一个变量：
 
 ```
-Ua=
-a a
-```
-```
-a
-Cash Borrows
-```
-```
-B
-
+  Ua=   Borrows/ CashB/ Borrows
 ```
 orrows
 
